@@ -16,9 +16,12 @@ Run "composer dump-env prod" to compile .env files for production use (requires 
 https://symfony.com/doc/current/best_practices.html#use-environment-variables-for-infrastructure-configuration
 
 ###> symfony/framework-bundle ###
+
 APP_ENV=dev
 APP_SECRET=d8f5245f7ee839ec4e7505d5f8935e5e
+
 ###< symfony/framework-bundle ###
+
 
 ###> symfony/mailer ###
 # MAILER_DSN=null://null
